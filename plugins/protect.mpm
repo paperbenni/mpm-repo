@@ -1,0 +1,5 @@
+version:1
+mc:1.13
+describe: protect for essentials
+depend:essentials
+

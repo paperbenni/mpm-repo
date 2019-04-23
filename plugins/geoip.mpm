@@ -1,0 +1,3 @@
+version:1
+describe:geoip for essentials
+depend:essentials
