@@ -1,1 +1,3 @@
+mc:1.13
 describe: automatically restarts the server and exectutes a restart script
+version:1

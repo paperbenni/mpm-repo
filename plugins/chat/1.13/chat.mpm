@@ -1,2 +1,4 @@
 describe:chat controll addon for essentialsx
 depend:essentials
+version:1
+mc:1.13
