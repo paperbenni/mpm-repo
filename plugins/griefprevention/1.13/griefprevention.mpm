@@ -1,3 +1,4 @@
 mc:1.13
 version:1
 describe:land claim plugin
+hook:true
