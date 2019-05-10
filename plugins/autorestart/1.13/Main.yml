@@ -5,7 +5,7 @@ main:
     ## restart mode specific settings
     modes:
         ## Interval in Hours (DECIMALS ALLOWED)
-        interval: 8.0
+        interval: 2.0
         ## Set the timestamp in 24 hour time format HH:MM
         ## Multiple timestamps allowed
         timestamp:

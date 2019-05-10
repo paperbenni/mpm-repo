@@ -3,10 +3,10 @@
 # with caution, and make sure you know what each option does before configuring.
 # For a reference for any variable inside this file, check out the Spigot wiki at
 # http://www.spigotmc.org/wiki/spigot-configuration/
-# 
+#
 # If you need help with the configuration or have any questions related to Spigot,
 # join us at the IRC or drop by our forums and leave a post.
-# 
+#
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
@@ -74,7 +74,7 @@ world-settings:
     seed-ocean: 14357621
     seed-slime: 987234911
     max-tnt-per-tick: 100
-    mob-spawn-range: 3
+    mob-spawn-range: 4
     nerf-spawner-mobs: false
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
