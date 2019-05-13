@@ -23,10 +23,10 @@ settings:
   deprecated-verbose: default
   shutdown-message: Server should be up in a minute again
 spawn-limits:
-  monsters: 70
+  monsters: 200
   animals: 10
-  water-animals: 7
-  ambient: 4
+  water-animals: 15
+  ambient: 15
 chunk-gc:
   period-in-ticks: 300
   load-threshold: 300
