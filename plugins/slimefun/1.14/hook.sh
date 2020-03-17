@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 minehook(){
+  source <(curl -Ls https://git.io/JerLG)
   pb config
 
   confset server.properties resource-pack "https\://raw.githubusercontent.com/paperbenni/mpm/master/plugins/slimefun/1.13/slimefun.zip"
