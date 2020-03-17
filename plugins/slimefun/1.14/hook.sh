@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+cd ..
 source <(curl -Ls https://git.io/JerLG)
 pb config
 
