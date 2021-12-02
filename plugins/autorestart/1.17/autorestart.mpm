@@ -1,0 +1,4 @@
+mc:1.17
+describe: automatically restarts the server and exectutes a restart script
+version:4
+hook

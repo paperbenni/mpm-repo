@@ -1,0 +1,4 @@
+version:2
+describe:geoip for essentials
+depend:essentials
+mc:1.17

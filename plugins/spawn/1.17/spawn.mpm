@@ -1,0 +1,4 @@
+version:1
+mc:1.17
+describe: spawn stuff for essentials
+depend:essentials
