@@ -1,0 +1,4 @@
+describe:provides essential commands and abbreviations
+depend:vault
+version:1
+mc:1.19
